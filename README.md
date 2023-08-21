@@ -16,8 +16,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/devschlumpfi/Code-Snippets/total) ![Contributors](https://img.shields.io/github/contributors/devschlumpfi/Code-Snippets?color=dark-green) ![Issues](https://img.shields.io/github/issues/devschlumpfi/Code-Snippets) ![License](https://img.shields.io/github/license/devschlumpfi/Code-Snippets) 
-
 ## About The Project
 
 
