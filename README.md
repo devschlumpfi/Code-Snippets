@@ -20,8 +20,3 @@
 
 
 These codes should help people and are not all from me but also from other people so your code should be there write me a DM on discord so I wish you a lot of fun programming and there will be more to come don't worry ❤️
-
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/devschlumpfi/Code-Snippets/blob/main/LICENSE.md) for more information.
